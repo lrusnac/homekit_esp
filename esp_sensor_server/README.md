@@ -1,4 +1,4 @@
-### Esp node server  
+### Esp sensor node server  
 meant to work with the https://github.com/Supereg/homebridge-http-humidity-sensor
 and https://github.com/Supereg/homebridge-http-temperature-sensor.
 
